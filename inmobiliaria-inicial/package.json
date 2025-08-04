@@ -1,1 +1,18 @@
 // Archivo de ejemplo: package.json
+{
+  "name": "inmobiliaria-inicial",
+  "version": "1.0.0",
+  "description": "Proyecto web inicial para Inmobiliaria Alberto Alfaro",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Christian Pumaricra",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.
