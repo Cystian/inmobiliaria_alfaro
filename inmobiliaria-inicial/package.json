@@ -1,4 +1,4 @@
-// Archivo de ejemplo: package.json
+
 {
   "name": "inmobiliaria-inicial",
   "version": "1.0.0",
@@ -15,4 +15,4 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.4.1",
-    "vite": "^5.
+    "vite": "^5."
