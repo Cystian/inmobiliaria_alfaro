@@ -1,0 +1,1 @@
+// Archivo de ejemplo: vite.config.js
